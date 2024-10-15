@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+
+html, body {
+    height: 100%; /* Ensure body and html take the full height */
+    overflow: hidden; /* Prevent scrolling */
+}
+
 body {
     font-family: Arial, sans-serif;
     color: #fff;

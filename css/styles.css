@@ -260,5 +260,10 @@ nav {
     }
 }
 
-
+.logo-img { 
+    border-radius: 10px;
+    width: 70px;
+    height: 60px;      /* Set a suitable height (or width) as needed */
+    opacity: 1.6;
+}
 
